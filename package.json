@@ -1,0 +1,18 @@
+{
+  "name": "hexo-asset-image-cs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SeaChan0117/hexo-asset-image-cs.git",
+  "author": "SeaChan <1341914555@qq.com>",
+  "license": "MIT",
+  "keywords": [
+    "hexo",
+    "iamge",
+    "asset",
+    "path"
+  ],
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "entities": "^1.1.2"
+  }
+}
